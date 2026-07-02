@@ -70,19 +70,18 @@ vendor-performance-analysis/
  ├── README.md
  ├── .gitignore
  ├── requirements.txt
-
-├── Vendor Performance Report.pdf
-│
-├── notebooks/
-│   ├── exploratory_data_analysis.ipynb
-│   ├── vendor_performance_analysis.ipynb
-│
-├── scripts/
-│   ├── ingestion_db.py
-│   ├── get_vendor_summary.py
-│
-├── dashboard/
-│   ├── vendor_performance_dashboard.pbix
+ ├── Vendor Performance Report.pdf
+ │
+ ├── notebooks/
+ │   ├── exploratory_data_analysis.ipynb
+ │   ├── vendor_performance_analysis.ipynb
+ │
+ ├── scripts/
+ │   ├── ingestion_db.py
+ │   ├── get_vendor_summary.py
+ │
+ ├── dashboard/
+ │   ├── vendor_performance_dashboard.pbix
 '''
 
 
