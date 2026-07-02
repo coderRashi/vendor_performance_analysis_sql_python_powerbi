@@ -1,11 +1,12 @@
 
 # vendor Performance Analysis - Retail Inventory and Sales
 
-Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisiona using SQL, Python SQLite3 and Power BI._
+Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisiona using SQL,
+Python SQLite3 and Power BI.
 
 ---
 
-##Table of Contents
+#Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
