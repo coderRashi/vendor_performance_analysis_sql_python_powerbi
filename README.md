@@ -23,8 +23,9 @@ Python SQLite3 and Power BI.
 ---
 <h2><a class="anchor" id ="overview"></a>Overview</h2>
 
-This Project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing , pricing 
-and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing , and Power BI
+This Project evaluates vendor performance and retail inventory dynamics to drive strategic 
+insights for purchasing , pricing and inventory optimization. A complete data pipeline was
+built using SQL for ETL, Python for analysis and hypothesis testing , and Power BI
 for visualization.
 
 ---
