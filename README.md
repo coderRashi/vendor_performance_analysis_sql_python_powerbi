@@ -104,27 +104,40 @@ Effective inventory and Sales management are critical in the retail sector. This
 ---
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning and Preparation</h2>
 
--Removed transaction with:
+**Removed transaction with**:
 -Gross Profit <=0
+
 -Profit Margin <=0
+
 -Sales Quantity =0
+
 -Created Summary tables with vendor-level metrics
+
 -Converted data types, handled outliers , merged lookup tables
 
 ---
 <h2><a class="anchor" id ="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
+
 **Negative or Zero Values Detected :**
+
 - Gross Profit :Min -52,002.78(loss-making sales)
+
 - Profit Margin: (Sales at zero or below cost)
+
 - Unsold Inventory:Indicating slow-moving stock
 
 **Outliers Identified :**
+
 - High Frieght Costs(up to 257K)
+
 - Large Purchase /Actual prices
 
 **Correlation Analysis:**
+
 -Weak between Purchse Price and Profit 
+
 -Strong between Purchase QTY and Sales Qty(0.999)
+
 -Negative between Profit Margin and Sales Price(-0.179)
 
 ---
