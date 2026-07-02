@@ -46,16 +46,22 @@ Effective inventory and Sales management are critical in the retail sector. This
    - end_inventory,
    - purchase_prices,
    - purchases,sales,
-   - vendor_invoice all data are collected in one file name as **Inventorys**
+   - vendor_invoice all data are collected in one file named as **Inventorys**
 - Summary table created from ingested data and named as **vendor_sales_summary** used for analysis.
 
 ---
 <h2><a class="anchor" id ="tools--technologies"></a>Tools and Technologies</h2>
 
--SQl (common Table Expressions , Joins , Filtering)
--Python (Pandas ,Matplotlib,Seaborn , Scipy)
+-SQl (common Table Expressions , Joins , Filtering , C)
+-Python (Pandas , Matplotlib, Seaborn , Scipy)
 -Power BI (Interactive visualization)
 -GitHub
+**SQL (SQLite3)** – ETL, queries, vendor summary tables ,common Table Expressions , Joins , Filtering 
+- **Python (Pandas, Matplotlib, Seaborn, SciPy)** – Data cleaning, analysis, visualization, hypothesis testing  
+- **Chunking** – Handled more than 2M (millions) of rows efficiently, avoided memory limits  
+- **Power BI** – Dashboards, KPIs, DAX, heatmaps, interactive visuals and vendor performance insights
+- **Git & GitHub** – version control and project hosting  
+- **Jupyter Notebooks** – end‑to‑end platform for the entire project (EDA, analysis, reporting)
 
 --
 <h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
