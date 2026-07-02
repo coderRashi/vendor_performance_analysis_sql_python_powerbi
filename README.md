@@ -32,11 +32,11 @@ for visualization.
 <h2><a class="anchor" id ="business-problem"></a>Business Problem</h2>
 
 Effective inventory and Sales management are critical in the retail sector. This Project aims to:
--Identify underperforming brands needing pricing or promotional adjustments
--Determine vendor contributions to sales and profits
--Analyze the cost-benefits of bulk purchasing 
--Investigate inventory turnover inefficiencies
--Statistically validate differences in vendor profitability
+- Identify underperforming brands needing pricing or promotional adjustments
+- Determine vendor contributions to sales and profits
+- Analyze the cost-benefits of bulk purchasing 
+- Investigate inventory turnover inefficiencies
+- Statistically validate differences in vendor profitability
 
 ---
 <h2><a class="anchor" id ="dataset"></a>Dataset</h2>
