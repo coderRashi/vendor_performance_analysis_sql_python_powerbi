@@ -46,8 +46,8 @@ Effective inventory and Sales management are critical in the retail sector. This
    -end_inventory,
    -purchase_prices,
    -purchases,sales,
-   -vendor_invoice
-- Summary table created from ingested data and used for analysis
+   -vendor_invoice all data are collected in one file name as **Inventorys**
+- Summary table created from ingested data and named as **vendor_sales_summary** used for analysis.
 
 ---
 <h2><a class="anchor" id ="tools--technologies"></a>Tools and Technologies</h2>
