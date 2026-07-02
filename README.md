@@ -143,7 +143,9 @@ vendor-performance-analysis/
 
 ---
 <h2><a class="anchor" id ="dashboard"></a>Dashboard</h2>
+
 **Power BI Dashboard shows**:
+
    - Vendor-wise Sales and Margins
    
    - Inventory turnover
