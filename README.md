@@ -129,27 +129,25 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id ="research-questions--key-findings"></a>Research Questions and Key Findings</h2>
 
-1. **Brand for Promotions**: 198 brands with low sales but high profit Margins
-2. **Top Vendors**:Top 10 Vendors = 65.69% of purchase - risk of over -reliance 
-3.**Bulk Purchasing Impact**: 72% cost savings per unit in large orders
+- **Brand for Promotions**: 198 brands with low sales but high profit Margins
+- **Top Vendors**:Top 10 Vendors = 65.69% of purchase - risk of over -reliance 
+- **Bulk Purchasing Impact**: 72% cost savings per unit in large orders
+- **Inventory Turnover**: $2.71M worth of unsold inventory
+- **Vendor Profitability**:
+      –  High Vendors: Mean Margin = 31.17%
+      –  Low Vendors: Mean Margin = 41.55%
 
-4.**Inventory Turnover**: $2.71M worth of unsold inventory
-
-5.**Vendor Profitability**:
-–  High Vendors: Mean Margin = 31.17%
-–  Low Vendors: Mean Margin = 41.55%
-
-6.**Hypothesis Testing**: Statistically significant difference in profit margins ▯ distinct vendor strategies
+- **Hypothesis Testing**: Statistically significant difference in profit margins ▯ distinct vendor strategies
 
 
 
 ---
 <h2><a class="anchor" id ="dashboard"></a>Dashboard</h2>
 - Power BI Dashboard shows:
-- Vendor-wise Sales and Margins
-- Inventory turnover
-- Bulk Purchase Savings
-- Performance Heatmap
+   - Vendor-wise Sales and Margins
+   - Inventory turnover
+   - Bulk Purchase Savings
+   - Performance Heatmap
 
 ![Vendor Performance Dashboard](images/dashboard.png)
 
@@ -176,15 +174,15 @@ python
 
 ---
 <h2><a class="anchor" id ="final-recommendations"></a>Final Recommendations</h2>
--Diversify vendor base to reduce risk
--Optimize bulk order strategies
--Reprice slow-moving , high - margin brands
--Clear unsold inventory strategically 
--improve marketing for underperforming vendors
+-  Diversify vendor base to reduce risk
+-  Optimize bulk order strategies
+-  Reprice slow-moving , high - margin brands
+-  Clear unsold inventory strategically 
+-  Improve marketing for underperforming vendors
 
 ---
 <h2><a class="anchor" id ="author--contact"></a>Author and Contact</h2>
 **Rashi Bongirwar
-Data Analyst
-Email: bongirwarrashi@gmail.common
-Linkeddin: https://www.linkedin.com/in/rashi-bongirwar/
+- Data Analyst
+- Email: bongirwarrashi@gmail.common
+- Linkeddin: https://www.linkedin.com/in/rashi-bongirwar/
