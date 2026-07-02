@@ -180,15 +180,21 @@ python
 
 ---
 <h2><a class="anchor" id ="final-recommendations"></a>Final Recommendations</h2>
+
 -  Diversify vendor base to reduce risk
+  
 -  Optimize bulk order strategies
+  
 -  Reprice slow-moving , high - margin brands
--  Clear unsold inventory strategically 
+  
+-  Clear unsold inventory strategically
+  
 -  Improve marketing for underperforming vendors
 
 ---
 <h2><a class="anchor" id ="author--contact"></a>Author and Contact</h2>
-**Rashi Bongirwar
-- Data Analyst
-- Email: bongirwarrashi@gmail.common
-- Linkeddin: https://www.linkedin.com/in/rashi-bongirwar/
+
+**Rashi Bongirwar**
+ - Data Analyst
+ - Email: bongirwarrashi@gmail.common
+ - Linkeddin: https://www.linkedin.com/in/rashi-bongirwar/
