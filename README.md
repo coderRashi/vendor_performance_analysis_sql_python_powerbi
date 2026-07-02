@@ -64,10 +64,13 @@ Effective inventory and Sales management are critical in the retail sector. This
 <h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
 
 '''
-vendor-performance-analysis/
+
+ **vendor-performance-analysis**/
 
  │
+ 
  ├── README.md
+ 
  ├── .gitignore
  
  ├── requirements.txt
