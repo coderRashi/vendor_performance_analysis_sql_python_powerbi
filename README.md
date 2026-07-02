@@ -80,17 +80,17 @@ vendor-performance-analysis/
  
  ├── notebooks/
  
- │   ├── exploratory_data_analysis.ipynb
+ │      ├── exploratory_data_analysis.ipynb
  
- │   ├── vendor_performance_analysis.ipynb
+ │      ├── vendor_performance_analysis.ipynb
  
  │
  
  ├── scripts/
  
- │   ├── ingestion_db.py
+ │     ├── ingestion_db.py
  
- │   ├── get_vendor_summary.py
+ │     ├── get_vendor_summary.py
  
  │
  
@@ -113,16 +113,16 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id ="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 **Negative or Zero Values Detected :**
--Gross Profit :Min -52,002.78(loss-making sales)
--Profit Margin: (Sales at zero or below cost)
--Unsold Inventory:Indicating slow-moving stock
+- Gross Profit :Min -52,002.78(loss-making sales)
+- Profit Margin: (Sales at zero or below cost)
+- Unsold Inventory:Indicating slow-moving stock
 
 **Outliers Identified :**
--High Frieght Costs(up to 257K)
--Large Purchase /Actual prices
+- High Frieght Costs(up to 257K)
+- Large Purchase /Actual prices
 
 **Correlation Analysis:**
--Waek between Purchse Price and Profit 
+-Weak between Purchse Price and Profit 
 -Strong between Purchase QTY and Sales Qty(0.999)
 -Negative between Profit Margin and Sales Price(-0.179)
 
@@ -136,8 +136,8 @@ vendor-performance-analysis/
 4.**Inventory Turnover**: $2.71M worth of unsold inventory
 
 5.**Vendor Profitability**:
-– High Vendors: Mean Margin = 31.17%
-– Low Vendors: Mean Margin = 41.55%
+–  High Vendors: Mean Margin = 31.17%
+–  Low Vendors: Mean Margin = 41.55%
 
 6.**Hypothesis Testing**: Statistically significant difference in profit margins ▯ distinct vendor strategies
 
@@ -145,11 +145,11 @@ vendor-performance-analysis/
 
 ---
 <h2><a class="anchor" id ="dashboard"></a>Dashboard</h2>
--Power BI Dashboard shows:
--Vendor-wise Sales and Margins
--Inventory turnover
--Bulk Purchase Savings
--Performance Heatmap
+- Power BI Dashboard shows:
+- Vendor-wise Sales and Margins
+- Inventory turnover
+- Bulk Purchase Savings
+- Performance Heatmap
 
 ![Vendor Performance Dashboard](images/dashboard.png)
 
