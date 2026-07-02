@@ -42,11 +42,11 @@ Effective inventory and Sales management are critical in the retail sector. This
 <h2><a class="anchor" id ="dataset"></a>Dataset</h2>
 
 - Multiple CSV files located in '/data/' folder
-   -begin_inventory,
-   -end_inventory,
-   -purchase_prices,
-   -purchases,sales,
-   -vendor_invoice all data are collected in one file name as **Inventorys**
+   - begin_inventory,
+   - end_inventory,
+   - purchase_prices,
+   - purchases,sales,
+   - vendor_invoice all data are collected in one file name as **Inventorys**
 - Summary table created from ingested data and named as **vendor_sales_summary** used for analysis.
 
 ---
