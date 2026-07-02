@@ -105,15 +105,14 @@ Effective inventory and Sales management are critical in the retail sector. This
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning and Preparation</h2>
 
 **Removed transaction with**:
--Gross Profit <=0
+- Gross Profit <=0
+- Profit Margin <=0
 
--Profit Margin <=0
+- Sales Quantity =0
 
--Sales Quantity =0
+- Created Summary tables with vendor-level metrics
 
--Created Summary tables with vendor-level metrics
-
--Converted data types, handled outliers , merged lookup tables
+- Converted data types, handled outliers , merged lookup tables
 
 ---
 <h2><a class="anchor" id ="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
