@@ -1,5 +1,5 @@
 
-# vendor Performance Analysis - Retail Inventory and Sales
+# Vendor Performance Analysis - Retail Inventory and Sales
 
 Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisiona using SQL,
 Python SQLite3 and Power BI.
@@ -173,23 +173,24 @@ Effective inventory and Sales management are critical in the retail sector. This
 ---
 <h2><a class="anchor" id ="how-to-run-this-project"></a>How to Run This Project</h2>
 
-1. Clone the repository:https://github.com/coderRashi/vendor_performance_analysis_sql_python_powerbi.git
+1. Clone the repository:
 ''' bash 
-git  Clone
+git  Clone https://github.com/coderRashi/vendor_performance_analysis_sql_python_powerbi.git
 '''
 2.Load the CSVs and ingest into database:
 '''bash 
-pyhton 
+pyhton scripts/ingestion_db.py
 '''
 3.Create vendor summary table:
 ''' bash
-python
+python scripts/get_vendor_summary.py
 '''
 4.Open and run notebooks:
--'notebook
--
-5.Open Power BI Dashboard:
--
+-'notebooks/exploratory_data_analysis.ipynb'
+-'notebooks/vendor_performance_analysis.ipynb'
+
+5. Open Power BI Dashboard:
+- dashboard/vendor_performance_analysis.ipynb'
 
 ---
 <h2><a class="anchor" id ="final-recommendations"></a>Final Recommendations</h2>
