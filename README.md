@@ -178,6 +178,7 @@ Effective inventory and Sales management are critical in the retail sector. This
 ''' bash 
 git  Clone https://github.com/coderRashi/vendor_performance_analysis_sql_python_powerbi.git
 '''
+
 2. Load the CSVs and ingest into database:
 
 '''bash 
@@ -192,13 +193,13 @@ python scripts/get_vendor_summary.py
 
 4. Open and run notebooks:
 
--'notebooks/Vendor_Performance_Analysis_ipynb.ipynbb'
+- 'notebooks/Vendor_Performance_Analysis_ipynb.ipynb'
 
--'notebooks/Exploratory_data_analysis_ipynb.ipynb'
+- 'notebooks/Exploratory_data_analysis_ipynb.ipynb'
 
 5. Open Power BI Dashboard:
 
-- ddashboard/vendor dashboard.pbix'
+- 'dashboard/vendor dashboard.pbix'
 
 ---
 <h2><a class="anchor" id ="final-recommendations"></a>Final Recommendations</h2>
