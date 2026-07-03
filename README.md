@@ -185,7 +185,7 @@ git  Clone https://github.com/coderRashi/vendor_performance_analysis_sql_python_
 
 '''bash 
 
-python scripts/ingestion_db.py
+python scripts/ingestion_db.py.py
 
 '''
 
