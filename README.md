@@ -81,17 +81,17 @@ Effective inventory and Sales management are critical in the retail sector. This
  
  ├── notebooks/
  
- │      ├── exploratory_data_analysis.ipynb
+ │       ├── exploratory_data_analysis.ipynb
  
- │      ├── vendor_performance_analysis.ipynb
+ │       ├── vendor_performance_analysis.ipynb
  
  │
  
  ├── scripts/
  
- │     ├── ingestion_db.py
+ │      ├── ingestion_db.py
  
- │     ├── get_vendor_summary.py
+ │      ├── get_vendor_summary.py
  
  │
  
