@@ -174,22 +174,30 @@ Effective inventory and Sales management are critical in the retail sector. This
 <h2><a class="anchor" id ="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
+
 ''' bash 
 git  Clone https://github.com/coderRashi/vendor_performance_analysis_sql_python_powerbi.git
 '''
 2.Load the CSVs and ingest into database:
+
 '''bash 
 pyhton scripts/ingestion_db.py
 '''
+
 3.Create vendor summary table:
+
 ''' bash
 python scripts/get_vendor_summary.py
 '''
+
 4.Open and run notebooks:
+
 -'notebooks/exploratory_data_analysis.ipynb'
+
 -'notebooks/vendor_performance_analysis.ipynb'
 
 5. Open Power BI Dashboard:
+
 - dashboard/vendor_performance_analysis.ipynb'
 
 ---
